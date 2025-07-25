@@ -4,7 +4,7 @@ A feature-rich and modern **eCommerce website** built using **React.js** and **T
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](https://your-live-site-url.com)
+🔗 [View Live Site](https://forever-fashion.netlify.app/)
 
 ## 📸 Preview
 
@@ -38,7 +38,7 @@ A feature-rich and modern **eCommerce website** built using **React.js** and **T
 
 Author
 Md. Tajul Islam
-🌐 Portfolio Website
+🌐 [Portfolio Website](https://tajulbappy.netlify.app/)
 📧 bappy042@gmail.com
 👨‍💻 [GitHub](https://github.com/tajulbappy)
 
