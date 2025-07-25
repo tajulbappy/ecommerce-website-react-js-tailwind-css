@@ -21,8 +21,10 @@ const Hero = () => {
         </div>
       </div>
 
+      {/* Hero right-side */}
+
       <div className="w-full sm:w-1/2 flex items-center justify-center py-10 sm:py-0">
-        <img src={assets.hero_img} alt="hero-img" />
+        <img src={assets.hero_img}  alt="hero-img" />
       </div>
     </div>
   );
